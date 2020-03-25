@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  src = "../assets/FAQ.pdf";
+  src = "https://pdfhost.io/v/GfhMvAZUl_FAQpdf.pdf";
 }
