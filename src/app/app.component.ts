@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  src = "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf";
+  src = "../assets/FAQ.pdf";
 }
